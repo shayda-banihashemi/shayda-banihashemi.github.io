@@ -1,6 +1,9 @@
 AUTHOR = 'Shayda Banihashemi'
 SITENAME = "Shayda's Blog"
-SITEURL = ""
+SITEURL = "https://shayda-banihashemi.github.io"
+DOMAIN = SITEURL
+FEED_DOMAIN = SITEURL
+HTTPS = True
 
 PATH = "content"
 
